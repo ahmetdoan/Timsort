@@ -29,9 +29,6 @@ Timsort 2002'de Tim Peters tarafından Python için geliştirilmiş hibrit bir s
 - Eğer run **artan** sıradaysa, olduğu gibi bırakılır.
 
 
-(5, 3, 1, 2, 4)  →  (1, 3, 5) run tespit edildi ve ters çevrildi
-
-
 ### 2. minRun Hesaplama
 
 Her run'ın olabileceği en küçük boyut minRun ile belirlenir.  
